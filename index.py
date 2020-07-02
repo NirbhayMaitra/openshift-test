@@ -9,6 +9,3 @@ for i in range(n):
     arr.append(x)
 
 print(arr)
-
-val=int(input("ENTER THE VALUE TO BE SEARCHED"))
-print(arr.index(val))
